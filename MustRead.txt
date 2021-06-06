@@ -1,0 +1,59 @@
+                 : : : : : Used Version AND IDE : : : : : 
+
+Install Xampp:
+
+xampp: https://www.apachefriends.org/xampp-files/8.0.6/xampp-windows-x64-8.0.6-0-VS16-installer.exe
+
+php  version: 8.0.6
+
+
+IDE: VS Code
+
+                   
+                   
+                    : : : : :Language Used: : : : : 
+
+                        1.HTML
+                        2.CSS
+                        3.PHP
+                        4.JavaScript
+                        5.Bootstrap
+                   
+                   
+                   
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+                    Login Details for admin : admin
+                                  Password :Admin@123
+                    Login Details for Passenger: ansh@gmail.com 
+                                    Password :Ansh@123
+                   
+
+
+                        : : : : :Process: : : : : 
+                1. first of all you need to install xampp.
+
+                2. then you have to go xampp-htcdoc-make folder(Airport Management System) then copy code there.
+
+                3. then go to xampp control and start apache server and mysql server.
+
+                4. then open any browser and type localhost/phpmyadmin/
+
+                5. then create new databse=database name-ams.
+
+                6. then import sql file(ams.sql)
+
+                7. then you have to show your database.
+
+                8. then type in any browser localhost/folder name(Airport Management System- which you have give name)/index.html
+
+                9. then your process has been complete  
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "ams.sql" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+
+

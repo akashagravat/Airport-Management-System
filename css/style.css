@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: lightcoral;
+}
+
+.navbar-nav li a {
+    color: black;
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.navbar-nav li a:hover {
+    background-color: lightgreen;
+}
+
+.nav-item {
+    margin: 2px;
+}
+
+.nav-link {
+    border-radius: 25px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+footer {
+    background-color: lightsalmon;
+}
+
+.nav-foot {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-foot li {
+    display: inline-block;
+}
+
+.nav-foot li a {
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 20px;
+    font-size: 20px;
+}
+
+.nav-foot li a:hover {
+    background-color: lightgreen;
+}
